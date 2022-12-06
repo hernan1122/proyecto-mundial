@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-size: 62.5%;
+}
+.title {
+  font-size: 4rem;
+}
+
+.formulario__input-error-activo {
+	display: block;
+}
+
+.formulario__grupo-correcto {
+	color: #1ed12d;
+	opacity: 1;
+}
+
+.formulario__grupo-incorrect {
+	color: #bb2929;
+}
